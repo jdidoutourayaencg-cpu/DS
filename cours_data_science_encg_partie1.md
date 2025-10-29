@@ -1,6 +1,7 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-
+JDIDOU TOURAYA
+<img src="WhatsApp Image 2024-09-02 à 19.02.12_1a8b3747.jpeg" style="height:264px;margin-right:232px"/>
 ---
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES

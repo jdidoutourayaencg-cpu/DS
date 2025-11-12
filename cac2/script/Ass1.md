@@ -69,3 +69,5 @@ Cependant, il existe **quelques différences mineures** entre cette version et c
 
 - Fisher, R.A. (1936). *The use of multiple measurements in taxonomic problems.*  
   Annals of Eugenics, 7(2), 179–188.  
+
+<img src="téléchargement.jpg" style="height:464px;margin-right:432px"/>
